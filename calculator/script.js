@@ -149,7 +149,3 @@ deleteButton.addEventListener("click", () => {
   calculator.delete();
   calculator.updateDisplay();
 });
-
-console.log("let try");
-console.log("this is from branch feature");
-console.log("this is from branch feature2");
